@@ -90,7 +90,7 @@ Below are the differences from the paper
 
 # Quickstart
 * Create a new conda environment with python 3.10 then run below commands
-* ```git clone https://github.com/arifmarias/Yolov1-PyTorch.git```
+* ```git clone https://github.com/arifmarias/2.-Yolov1-PyTorch```
 * ```cd Yolov1-PyTorch```
 * ```pip install -r requirements.txt```
 * For training/inference use the below commands passing the desired configuration file as the config argument in case you want to play with it. 
